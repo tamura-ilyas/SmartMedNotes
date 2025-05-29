@@ -4,7 +4,7 @@ import logo from "../../assets/lock.svg"; // Replace with your logo
 
 const Footer = () => {
   return (
-    <footer className="bg-gray-700 text-white py-12">
+    <footer className="bg-gray-800 text-white py-12">
       <div className="max-w-7xl mx-auto px-6 sm:px-16 flex flex-col md:flex-row justify-between items-center">
         {/* Logo and Company Info */}
         <div className="flex flex-col items-center md:items-start mb-6 md:mb-0">

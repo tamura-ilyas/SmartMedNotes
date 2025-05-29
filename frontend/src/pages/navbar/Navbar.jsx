@@ -26,7 +26,7 @@ const Navbar = () => {
   return (
     <>
       {/* Navbar */}
-      <nav className="bg-gray-700 sticky top-0 z-50 p-4 flex flex-wrap items-center justify-between">
+      <nav className="bg-gray-800 sticky top-0 z-50 p-4 flex flex-wrap items-center justify-between">
         <div className="text-white text-xl md:text-2xl font-bold">
           Smart MED Notes
         </div>
