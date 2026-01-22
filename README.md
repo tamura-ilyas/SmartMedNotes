@@ -80,5 +80,7 @@ cd frontend
 npm install
 npm run dev
 
-## *LIVE AT*
-smart-med-notes-git-abdullah-muhammadabdullahbutts-projects.vercel.app
+
+
+## *Demo*
+https://youtu.be/lFGIggNKpR4?si=fZg-Ol4h-FSo8C7F
