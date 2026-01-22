@@ -22,16 +22,20 @@
 -	*Google-T5/T5-Small:* Used for summarizer.
 -	*Firebase:* Used for user authentication and database storage.
 
+## **Workflow
+<img width="1536" height="1024" alt="SmartMedNotes Workflow" src="https://github.com/user-attachments/assets/417093cd-23b3-41a7-a60f-91695fb387cb" />
+
+
 ## *Project Contributions*
 
-### *Muhammad Abdullah Butt (2021-CS-81)*  🚀
+### *Chaudhry Ilyas (2021-CS-60)*  🚀
 
 - *Lead Developer & Architect* – Designed and implemented the *backend, model training, deployment, and Git management*.
 - Fine-tuned *microsoft/phi-3-mini-4k-instruct* and optimized *RAG-based retrieval*.
 - Deployed backend on *Hugging Face* and frontend on *Vercel*, managed *Firebase database*.
 - Set up *Git repository* and ensured smooth integration of all components.
 
-### *Chaudhry Ilyas (2021-CS-60)* 🎨
+### *Muhammad Abdullah Butt(2021-CS-81)* 🎨
 
 - Developed the *frontend* using *Vite + Tailwind CSS*.
 - Designed an intuitive *UI* for better user experience.
