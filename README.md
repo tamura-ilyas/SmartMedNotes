@@ -22,7 +22,7 @@
 -	*Google-T5/T5-Small:* Used for summarizer.
 -	*Firebase:* Used for user authentication and database storage.
 
-## **Workflow
+## *Workflow*
 <img width="1536" height="1024" alt="SmartMedNotes Workflow" src="https://github.com/user-attachments/assets/417093cd-23b3-41a7-a60f-91695fb387cb" />
 
 
